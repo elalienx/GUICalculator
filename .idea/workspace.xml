@@ -68,7 +68,28 @@
       <option name="project" value="LOCAL" />
       <updated>1656322634036</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Basic example of a graphical user interface of a calculator using the Model View Controller design pattern.">
+      <created>1656323111730</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656323111731</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Basic example of a graphical user interface of a calculator using the Model View Controller design pattern.">
+      <created>1656323127876</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656323127876</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Basic example of a graphical user interface of a calculator using the Model View Controller design pattern.">
+      <created>1656323152632</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656323152632</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
